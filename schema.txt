@@ -1,0 +1,104 @@
+{ 
+    name: 'Pleasing' -> name of user seached,
+    id: 635489 -> internal krunker id,
+    score: 48146825 -> total score,
+    level: 208 -> game level,
+    levelProgress: {
+        currentexp: 93148, -> current exp progeress
+        finishexp: 463333 -> current exp to move to the next game level
+    } ,
+    kills: 386794 -> total kills,
+    deaths: 101160 -> total deaths,
+    kdr: '3.00' -> kill to death ratio,
+    kpg: '21.37' -> average kills per game,
+    spk: '124.48' -> average score per kill,
+    totalGamesPlayed: 18097 -> total games played,
+    wins: 14593 -> total games won,
+    loses: 3504 -> total games lost,
+    wl: '4.16' -> win to lose ratio,
+    playTime: '33d23h6m' -> total playtime schema=days-hour-minuties,
+    funds: 10950 -> Current amount of KR in account,
+    clan: 'ん' -> Current Clan,
+    featured: false -> Verified Status where false=not verified and true= verified,
+    hacker: false -> Hacker Status where false= not hacker and true= is a hacker,
+    following: 2 -> amount of people who the user is following,
+    followers: 2809 -> amount of people who are following the user,
+    shots: 1342306 -> total amount of shots,
+    hits: 541136 -> total amount of shot hit or hits,
+    headshots: 8180 -> total amount of head shot,
+    nukes: 461 -> total amount of nuke called or amount of time the user has had 25 or more kills in a single game,
+    meleeKills: 2428 -> total amount of melee kills,
+    createdDate: '2018-10-21' -> Date Account Create in schema=yyyy-mm-dd or year-month-day,
+    createdTime: '12:12:36' -> Time account Created in schema=hh:mm:ss or hour:minutes:seconds,
+    lastPlayedClass: 'RunNGun' -> las class played,
+    elo: 339.17,
+    elo2: 162.34,
+    elo4: 6.9,
+    classlevels: {
+        Triggerman: { 
+            level: 58,
+            currentexp: 34360,
+            finishexp: 127777
+            },
+        Hunter: { 
+            level: 132,
+            currentexp: 23602,
+            finishexp: 292222 
+            },
+        RunNGun: { 
+            level: 12,
+            currentexp: 1810,
+            finishexp: 25555
+            },
+        SparyNPray: { 
+            level: 11,
+            currentexp: 3903,
+            finishexp: 23333 
+            },
+        Vince: { 
+            level: 12,
+            currentexp: 20440,
+            finishexp: 25555 
+            },
+        Detective: { 
+            level: 40,
+            currentexp: 2925,
+            finishexp: 87777 
+            },
+        Marksman: { 
+            level: 2,
+            currentexp: 4270, 
+            finishexp: 4444 
+            },
+        Rocketeer: { 
+            level: 1,
+            currentexp: 0,
+            finishexp: 1111 
+            },
+        Agent: { 
+            level: 1,
+            currentexp: 0,
+            finishexp: 1111 
+            },
+        Runner: { 
+            level: 3,
+            currentexp: 10, 
+            finishexp: 5555 
+            },
+        Deagler: { 
+            level: 1,
+            currentexp: 0,
+            finishexp: 1111 
+            },
+        Bowman: { 
+            level: 1,
+            currentexp: 0,
+            finishexp: 1111 
+            },
+        Commando: { 
+            level: 3, 
+            currentexp: 460, 
+            finishexp: 5555
+            }
+    } 
+}
